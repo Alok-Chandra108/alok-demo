@@ -1,3 +1,3 @@
 # alok-demo
 First Repository
-Authoe - Alok Chandra 
+Author - Alok Chandra 
